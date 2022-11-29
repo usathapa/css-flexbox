@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+  background-color: rgb(73, 72, 72);
+}
+.nav-logo a {
+  padding: 10px 10px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.nav-items a {
+  padding: 10px 10px;
+  font-size: 18px;
+  font-weight: 600;
+}
